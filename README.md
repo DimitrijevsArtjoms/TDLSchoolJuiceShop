@@ -12,28 +12,47 @@ Authentication:
 
 1) Register with Existing Credentials:
 Open application and log out
+
 Go to login and switch to registration
+
 Enter email and password
+
 Fill in security question
+
 Submit registration
+
 Verify error message for non-unique email
 
-3) Forgot Password:
+
+2) Forgot Password:
 Open application and go to login page
+
 Select "forgot password"
+
 Enter email
+
 Answer security question
+
 Set a new password
+
 Verify success message
 
-4) Payment:
+3) Payment:
+
 Add New Card
+
 Log in as a new user
+
 Open account and go to payment options
+
 Add a new card
+
 Enter card details (name, number, expiry)
+
 Submit form
+
 Verify that the card is added
+
 
 Notes:
 
