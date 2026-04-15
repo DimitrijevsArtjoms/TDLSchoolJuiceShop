@@ -59,6 +59,6 @@ Payment:
 
 Notes:
 
-The project is intended for learning testing and QA basics
-Focuses on core user flows and validation
+The project is intended for learning testing and QA basics; 
+Focuses on core user flows and validation; 
 Scenarios simulate real user interactions with the system
