@@ -40,8 +40,9 @@ Authentication:
     Verify success message
 
 
-3) Payment:
-    Add New Card:
+Payment:
+   
+3) Add New Card:
     
     Log in as a new user
     
