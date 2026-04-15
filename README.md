@@ -25,7 +25,7 @@ Authentication:
     Verify error message for non-unique email
 
 
-3) Forgot Password:
+2) Forgot Password:
    
     Open application and go to login page
     
@@ -41,8 +41,7 @@ Authentication:
 
 
 3) Payment:
-    
-    Add New Card
+    Add New Card:
     
     Log in as a new user
     
